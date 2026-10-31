@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local secrets and environment
+.env
+.env.*
+*.local.json
+
+# Generated work products
+/bug-reports/
+/test-cases/
+/test-plans/
+/test-data/
+/api-tests/
+/reports/
+/evidence/
